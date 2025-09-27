@@ -1,1 +1,3 @@
 # LLMs
+Adding all the notebooks on Text Summarization, RAG,multi-modal agents etc.
+1. Starting with Text summarization tool using BeautifulSoup for web scraping and text summarization using Open-AI gpt4 API. It gives summary from commercially avaialable websites using the API from Open-AI.
